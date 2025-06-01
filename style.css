@@ -133,4 +133,21 @@ ol li::marker {
 td:nth-child(even) {
   /* text styles for EVEN columns in the table */
   font-weight: bold;
+  color: var(--brown-800);
+}
+
+h1 {
+  color: var(--stone-900);
+}
+
+p, li, td {
+  color: var(--stone-600);
+}
+
+.preparation div {
+  color: var(--rose-800);
+}
+
+h2, li::marker {
+  color: var(--brown-800);
 }
