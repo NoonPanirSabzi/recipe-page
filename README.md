@@ -51,7 +51,7 @@ li {
 ### Useful resources
 
 - [HTML Tables](https://www.w3schools.com/html/html_tables.asp)
-- [HTML Table Styling](https://www.w3schools.com/html/html_table_styling.asp): explanation
+- [HTML Table Styling](https://www.w3schools.com/html/html_table_styling.asp)
 
 
 
