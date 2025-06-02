@@ -133,7 +133,9 @@ h1 {
   color: var(--stone-900);
 }
 
-p, li, td {
+p,
+li,
+td {
   color: var(--stone-600);
 }
 
@@ -145,7 +147,8 @@ p, li, td {
   color: var(--rose-800);
 }
 
-h2, li::marker {
+h2,
+li::marker {
   color: var(--brown-800);
 }
 
